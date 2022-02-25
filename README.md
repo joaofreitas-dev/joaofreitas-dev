@@ -7,7 +7,7 @@
   <span>🌱 Estudante da Blue EdTech </span>  </p>
 
   <a align="lefth" href="https://github.com/joaofreitas-dev">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaofreitas-dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img align="center" width="65%" src="https://github-readme-stats.vercel.app/api?username=joaofreitas-dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   </div>
  
 <div align="lefth" ><br>
@@ -26,7 +26,7 @@
 <div align="lefth"> 
   
   <a href="https://instagram.com/real_joaofreitas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "designer.joaofreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/joãofreitasdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/profile.php?id=100055565722649"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    ![Snake animation](https://github.com/joaofreitas-dev/joaofreitas-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
