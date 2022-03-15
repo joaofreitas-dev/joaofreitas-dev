@@ -1,10 +1,9 @@
 ### 
 
 
-<p align="lefth" style="texte-aling: center"> 
   <strong>Olá! Eu sou o João Freitas</strong><br>
   🔭 Apaixonado por tecnologia <br>
-  <span>🌱 Estudante da Blue EdTech </span>  </p>
+  <span>🌱 Estudante da Blue EdTech </span>
  
  <div align="center">
   <a href="https://github.com/joaofreitas-dev">
@@ -13,7 +12,7 @@
 </div>
   
   
-<div align="lefth" ><br>
+<div style="display: inline_block">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   <img align="center" alt="Joao-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
